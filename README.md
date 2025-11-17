@@ -10,7 +10,7 @@
 </div>
 
 # 💫 About Me:
-Estudiante de Computación en la Universidad Central de Venezuela (UCV), "la casa que vence la sombra". Me apasiona la tecnología y el desafío de convertir ideas en código funcional. Más que solo escribir líneas, me enfoco en construir herramientas que sean útiles y resuelvan problemas reales. Siempre curioso, aprendiendo y buscando la próxima oportunidad para crear algo genial.
+Computer Science student at the Universidad Central de Venezuela (UCV), "the house that overcomes the shadow." I'm passionate about technology and the challenge of turning ideas into functional code. More than just writing lines, I focus on building tools that are useful and solve real problems. Always curious, always learning, and always looking for the next opportunity to build something great.
 
 
 ## 🌐 Socials:
