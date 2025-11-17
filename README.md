@@ -13,7 +13,8 @@
 Computer Science student at the Universidad Central de Venezuela (UCV), "the house that overcomes the shadow." I'm passionate about technology and the challenge of turning ideas into functional code. More than just writing lines, I focus on building tools that are useful and solve real problems. Always curious, always learning, and always looking for the next opportunity to build something great.
 
 
-## 🌐 Socials:[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ypetto) 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ypetto) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-yepez-5b4a14263) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cyepez@outlook.com)
 
