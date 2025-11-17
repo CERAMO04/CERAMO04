@@ -1,6 +1,6 @@
 <div align="center">
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/CERAMO04/count.svg"/>
+  <img src="<img src="https://komarev.com/ghpvc/?username=CERAMO04"/>"/>
   <br/>
 </div>
 <div>
@@ -8,6 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CERAMO04&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CERAMO04&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
 </div>
+
 # 💫 About Me:
 Estudiante de Computación en la Universidad Central de Venezuela (UCV), "la casa que vence la sombra". Me apasiona la tecnología y el desafío de convertir ideas en código funcional. Más que solo escribir líneas, me enfoco en construir herramientas que sean útiles y resuelvan problemas reales. Siempre curioso, aprendiendo y buscando la próxima oportunidad para crear algo genial.
 
