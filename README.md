@@ -1,6 +1,6 @@
 <div align="center">
   <p>Visitor count</p>
-  <img src="<img src="https://komarev.com/ghpvc/?username=CERAMO04"/>"/>
+  <img src="https://komarev.com/ghpvc/?username=CERAMO04"/>
   <br/>
 </div>
 <div>
